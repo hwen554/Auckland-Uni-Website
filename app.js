@@ -1,4 +1,4 @@
-//
+//functions that create scroll page which helps websites redirect quickly
 
 const menu = document.querySelector("#mobile-menu");
 const menuLinks = document.querySelector(".navbar__menu");
